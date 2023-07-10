@@ -1,0 +1,93 @@
+{
+  "gearType": [{
+      "gear": "Full-Stack Developer (HackerNoon | Colorado, US) / Remote",
+      "gearList": [{
+          "item": "Spearheaded the implementation of NFT minting and staking infrastructure on Ethereum, Solana, and Polygon networks, resulting in a significant increase in user engagement and driving exponential growth in token adoption"
+        },
+        {
+          "item": "Built NFT marketplaces on both Ethereum and Solana networks using React/Next with web3 libraries and deployed them onto the cloud including Netlify, Vercel, and AWS"
+        },
+        {
+          "item": "Overhauled the automated test framework for the web services, leading to about 80% reduction in debugging and issue resolution time"
+        },
+        {
+          "item": "Transformed Sketch designs into responsive React components using MUI/Tailwind CSS, ensuring seamless user experience across various mobile devices; reduced bounce rate by 15% and increased mobile conversion rate by 20%"
+        },
+        {
+          "item": "Developed a React project utilizing top-level APIs such as Hooks and Redux to enhance React component structure, resulting in improved maintainability and scalability of the application"
+        },
+        {
+          "item": "Successfully optimized the client website for speed and SEO, making it a top 10 website"
+        },
+        {
+          "item": "Developed and implemented a robust Backend API utilizing JavaScript (Puppeteer) to efficiently generate cookies from a scraped database"
+        },
+        {
+          "item": "Developed and launched a customized Shopify store, implementing a cohesive branding strategy that aligned with the main hotel website"
+        },
+        {
+          "item": "Developed highly scalable backend systems using Node.js, Express.js, and Nest.js"
+        },
+        {
+          "item": "Embedded a Google tag manager and Google Analytics for website conversion tracking and user event tracking, so the number of customers increased by 17.6%",
+          "type": ["Apr 2021", "Mar 2023"]
+        }
+      ]
+    },
+    {
+      "gear": "Full-Stack Developer (Tech Alchemy | London, UK) / Remote",
+      "gearList": [{
+          "item": "Learned about Solidity and Rust programming languages ​​​​for dapps and smart contracts development and how integrated web3.js into the front end"
+        },
+        {
+          "item": "Deployed a groundbreaking NFT registration and redemption contract using Solidity, enabling seamless and secure digital asset transactions"
+        },
+        {
+          "item": "Integrated contract using web3.js"
+        },
+        {
+          "item": "Deployed back-end APIs leveraging Firebase cloud functions, real-time database, and cloud messaging"
+        },
+        {
+          "item": "Implemented the frontend technologies including React.js, Vue.js, Tailwind CSS, SASS, MUI, DaisyUI, Ant Design, and ChakraUI"
+        },
+        {
+          "item": "Updated and managed an e-commerce platform selling handmade crafts and strengthened online presence, increasing online sales by 150% in 6 months"
+        },
+        {
+          "item": "Increased by 25% the reach of users to the platform, over the installation of the web platform in mobile devices"
+        },
+        {
+          "item": "Worked closely with the designer to design and implement the various UI/UX components for some of the company's largest projects"
+        },
+        {
+          "item": "Developed and deployed a React Native mobile app incorporating geolocation services, a secure payment system, and real-time private and group chat functionality; increased user engagement by 40% and boosted app downloads by 25%",
+          "type": ["May 2019", "Feb 2021"]
+        }
+      ]
+    },
+    {
+      "gear": "Intern Web Developer (Slickdeals | Los Angeles, US)",
+      "gearList": [{
+          "item": "Extensively used HTML5, CSS3, SASS, JavaScript, JQuery, AJAX, Node.js, and Bootstrap to provide an intuitive and flexible-layout design for internal web portals"
+        },
+        {
+          "item": "Developed and updated a web page quickly and effectively using HTML 5, CSS3, JavaScript, and JQuery with the web page cross-browser compatibility"
+        },
+        {
+          "item": "Learned about JavaScript libraries including Angular, React, and Vue; leveraged this knowledge to design and build visually stunning websites with Material-UI and Ant Design, incorporating advanced React JS components, Forms, Events, Keys, Router, Redux, Animations, and Flux concepts"
+        },
+        {
+          "item": "Built a website, with a flexible layout and user-friendly so the number of active users increased by 27.3%"
+        },
+        {
+          "item": "Designed a website for a local TV by applying the skill received from the developing and full experience as a graphic designer, which resulted in the improvement of the website's performance and web traffic by 31%"
+        },
+        {
+          "item": "Enhanced user experience by implementing responsive design principles and integrating Bootstrap4 framework",
+          "type": ["Feb 2017 ", "Mar 2019"]
+        }
+      ]
+    }
+  ]
+}

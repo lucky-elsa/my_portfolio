@@ -1,0 +1,99 @@
+[{
+    "title": "NFT Marketplaces Site",
+    "description": "Blockasset is an athlete-verified NFT and token ecosystem, enabling fans and athletes to connect like never before, via the power of Web3. Here, I developed Frontend using React/Next and integrated Web3.js into frontend.",
+    "technology": "NextJS",
+    "image": "../projects/blockasset.png",
+    "link": "https://blockasset.co/"
+  },
+  {
+    "title": "Restaurant Site",
+    "description": "This is restaurant website using HTML, CSS and Javascript.",
+    "technology": "HTML",
+    "image": "../projects/restaurant.png",
+    "link": "https://github.com/beautylotus/restaurant-landing"
+  },
+  {
+    "title": "React Landing Page",
+    "description": "This is advertising website that Blue Sky Energy Technology makes saving energy simple and fun. Here, I developed Frontend using React.",
+    "technology": "ReactJS",
+    "image": "../projects/react landing.png",
+    "link": "https://www.blueskyenergy.co/"
+  },
+  {
+    "title": "Shopping Site",
+    "description": "Borrow almost anything from people nearby for jobs at home, fun experiences or work.",
+    "technology": "NextJS",
+    "image": "../projects/fatLlama.png",
+    "link": "https://fatllama.com/"
+  },
+  {
+    "title": "Exit",
+    "description": "Keluar sini ye",
+    "technology": "Blender",
+    "image": "../projects/living.png",
+    "link": "https://highlivingconcierge.com/"
+  },
+  {
+    "title": "Blockchain Site",
+    "description": "This is Blockchain website. I developed this website using Angualar for Frontend and using Solidity for Backend.",
+    "technology": "Angular",
+    "image": "../projects/aidog.png",
+    "link": "https://aidoge.com/en"
+  },
+  {
+    "title": "Cooperative Site",
+    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
+    "technology": "Vue",
+    "image": "../projects/cooperative.png",
+    "link": "https://www.cooperativecomputing.com/"
+  },
+  {
+    "title": "Dating App",
+    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
+    "technology": "ReactJS",
+    "image": "../projects/dating.png",
+    "link": "https://play.google.com/store/apps/details?id=ru.chocoapp.app "
+  },
+  {
+    "title": "Wizard Site",
+    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
+    "technology": "Blender",
+    "image": "../projects/wizard.png",
+    "link": "https://wizardmode.io/"
+  },
+  {
+    "title": "Shopify Website",
+    "description": "This is the Shopify Website using React. Here, I designed this webstie to be user-friendly, fleixble-layout, and all device responsive design. And implemented payment gateways",
+    "technology": "ReactJS",
+    "image": "../projects/shopify.png",
+    "link": "https://www.carousell.com.hk/"
+  },
+  {
+    "title": "ArtxPro",
+    "description": "This is a free Figma template brought to you by the Flowbase Team! Copy the template to your dashboard and customise it in seconds for your next project! If you like our content, check out more at flowbase.co and follow us on Twitter.",
+    "technology": "ReactJS",
+    "image": "../projects/artxpro.png",
+    "link": "https://artxpro.com/"
+  },
+  {
+    "title": "Travel Awal",
+    "description": "A travel site",
+    "technology": "Vue",
+    "image": "../projects/iketo.png",
+    "link": "https://www.iketo.diet/"
+  },
+  {
+    "title": "Landing Page",
+    "description": "This is reponsive Landing Page using HTML, CSS, Javascript for Headphone shop",
+    "technology": "HTML",
+    "image": "../projects/html landing.png",
+    "link": "https://nft-wisnu.netlify.app/"
+  },
+  {
+    "title": "Betting Site",
+    "description": "ZED RUN is the first horse racing game of skill to live not only on the blockchain but in an open market. Here I developed Backend using Solidity and integrated Web3.js into Frontend",
+    "technology": "ReactJS",
+    "image": "../projects/zed.png",
+    "link": "https://zed.run/"
+  }
+]
