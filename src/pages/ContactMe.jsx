@@ -36,23 +36,25 @@ export default function ContactMe() {
     message: "",
     email: "",
   });
-
-  const sendEmail = (e) => {
+  const form = {
+    to_name: 'James Roger',
+    from_name: formData.form_name,
+    message: formData.message,
+    email: formData.email,
+  }
+  const sendEmail = async (e) => {
     e.preventDefault();
     setLoader(true);
 
-    emailjs
+    await emailjs
       .send(
-        process.env.REACT_APP_EMAIL_SERVICE,
-        process.env.REACT_APP_EMAIL_TEMPLATE,
-        {
-          from_name: formData.form_name,
-          message: formData.message,
-          email: formData.email,
-        },
-        process.env.REACT_APP_EMAIL_JS_USER_ID
+        "service_4id4y4f",
+        "template_fyslu1j",
+        form,
+        "qXWjudIg1WdJlWMV8"
       )
-      .then(() => {
+      .then((result) => {
+        console.log(result.text);
         setLoader(false);
         setShowNotif(true);
         setTimeout(() => setShowNotif(false), 3000);
