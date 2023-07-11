@@ -188,7 +188,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
           <div className="col-span-2 flex items-center">
             <p className="px-4 py-1.5 truncate">find me in:</p>
             <a
-              href="https://twitter.com/wiscaksono"
+              href="#"
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-x border-[#1E2D3D] hover:text-white transition-colors"
@@ -201,14 +201,14 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-r border-[#1E2D3D] hover:text-white transition-colors"
-              aria-label="Follow me on facebook"
+              aria-label="Follow me on Telegram"
             >
               <FaTelegram />
             </a>
           </div>
           <div className="col-span-10 flex items-center justify-end ">
             <a
-              href="https://github.com/wiscaksono"
+              href="https://github.com/beautylotus"
               className="flex items-center justify-center gap-1.5 pl-4 border-l border-[#1E2D3D] py-1.5 hover:text-white transition-colors pr-4"
               target="_blank"
               rel="noreferrer"

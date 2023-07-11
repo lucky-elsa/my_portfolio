@@ -2,7 +2,6 @@ import emailjs from "@emailjs/browser";
 import { Popover, Transition } from "@headlessui/react";
 import { AiOutlineClose } from "@react-icons/all-files/ai/AiOutlineClose";
 import { AiOutlineSkype } from "@react-icons/all-files/ai/AiOutlineSkype";
-import { FiInstagram } from "@react-icons/all-files/fi/FiInstagram";
 import { GoTriangleDown } from "@react-icons/all-files/go/GoTriangleDown";
 import { GrLinkedinOption } from "@react-icons/all-files/gr/GrLinkedinOption";
 import { MdCall } from "@react-icons/all-files/md/MdCall";
@@ -162,18 +161,24 @@ export default function ContactMe() {
                 <div className="flex items-center justify-start overflow-hidden h-full">
                   <CopyBlock
                     language={`jsx`}
-                    text={`const button = document.querySelector('#sendBtn');
+                    text={`const sendEmail = async (e) => {
+  e.preventDefault();
+  setLoader(true);
 
-const message = {
-	name: "John Doe",
-	email: "johndoe@gmail.com",
-	message: "Hey!",
-	date: "${d.getDate()} ${month[d.getMonth()]} ${d.getFullYear()}"
-}
-
-button.addEventListener('click', () => {
-	form.send(message);
-})`}
+  await emailjs
+    .send(
+      process.env.REACT_APP_EMAIL_SERVICE,
+      process.env.REACT_APP_EMAIL_TEMPLATE,
+      formData,
+      process.env.REACT_APP_EMAIL_JS_USER_ID
+    )
+    .then((result) => {
+      setLoader(false);
+      setShowNotif(true);
+      setTimeout(() => setShowNotif(false), 3000);
+      formRef.current.reset();
+    });
+};`}
                     showLineNumbers={true}
                     theme={nord}
                     wrapLines={true}
@@ -252,7 +257,7 @@ function Contacts() {
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
-              <span>james.roger.0706@gmail.com</span>
+              <span>see.james.roger76@gmail.com</span>
             </a>
           </Popover.Panel>
         </Transition>
