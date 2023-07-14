@@ -1,5 +1,7 @@
 # James Roger's Homepage
-![James Roger](/thumbnail.png)
+<!-- ![James Roger](/thumbnail.png) -->
+
+<img src="/thumbnail.png" alt="James Roger" style="border-radius: 7px">
 ## Stack
 
 - [React.js](https://reactjs.org/) - A JavaScript liblary for building user interfaces.
