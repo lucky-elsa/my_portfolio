@@ -10,7 +10,6 @@ import { useState } from "react";
 import { CopyBlock, nord } from "react-code-blocks";
 import gearData from "../data/GearData.json";
 import { IoLogoJavascript } from "@react-icons/all-files/io5/IoLogoJavascript";
-import { Link } from "react-router-dom";
 
 export default function AboutMe() {
   const [render, setRender] = useState("my-bio");
@@ -156,14 +155,6 @@ let skills = [
       </div>
     </motion.div>
   );
-}
-
-const showDesc = (text) => {
-  if (text) {
-    return <p className="mb-3 mt-3">* {text}</p>
-  } else {
-    return null;
-  }
 }
 
 function Gear({ closeGear }) {

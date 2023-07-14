@@ -1,16 +1,11 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable react/jsx-no-comment-textnodes */
 import { RiCloseLine } from "@react-icons/all-files/ri/RiCloseLine";
-import { VscTriangleUp } from "@react-icons/all-files/vsc/VscTriangleUp";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import Typewriter from "typewriter-effect";
 
 export default function Home() {
-  const [score, setScore] = useState();
-  function handleSetScore(value) {
-    setScore(value);
-  }
   const ALLOWED_KEYS = ["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"];
   const [pressed, setPressed] = useState([]);
 

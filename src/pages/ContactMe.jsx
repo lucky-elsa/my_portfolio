@@ -9,23 +9,9 @@ import { MdEmail } from "@react-icons/all-files/md/MdEmail";
 import { motion } from "framer-motion";
 import { useRef, useState } from "react";
 import { CopyBlock, nord } from "react-code-blocks";
+import { Link } from "react-router-dom";
 
 export default function ContactMe() {
-  const d = new Date();
-  const month = [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "Mei",
-    "June",
-    "July",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec",
-  ];
 
   const formRef = useRef();
   const [loader, setLoader] = useState(false);
@@ -225,7 +211,7 @@ function Contacts() {
           leaveTo="opacity-0 -translate-y-1"
         >
           <Popover.Panel className="p-4 w-full flex flex-col gap-1.5">
-            <a
+            <Link
               href="https://join.skype.com/invite/tWdbCsnaGhDr"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -233,8 +219,8 @@ function Contacts() {
             >
               <AiOutlineSkype className="text-[19px]" />
               <span>James Roger</span>
-            </a>
-            <a
+            </Link>
+            <Link
               href="#"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -242,8 +228,8 @@ function Contacts() {
             >
               <MdCall />
               <span>+19788500232</span>
-            </a>
-            <a
+            </Link>
+            <Link
               href="https://www.linkedin.com/in/JamesRoger/"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -251,14 +237,14 @@ function Contacts() {
             >
               <GrLinkedinOption />
               <span>James Roger</span>
-            </a>
-            <a
+            </Link>
+            <Link
               href="mailto:sse.james.roger76@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
               <span>see.james.roger76@gmail.com</span>
-            </a>
+            </Link>
           </Popover.Panel>
         </Transition>
       </>
@@ -267,12 +253,6 @@ function Contacts() {
 }
 
 function FindMeAlso() {
-  const [isOpen, setIsOpen] = useState(true);
-
-  function openModal() {
-    setIsOpen(!isOpen);
-  }
-
   return (
     <Popover>
     </Popover>
