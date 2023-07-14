@@ -20,11 +20,11 @@
     "link": "https://www.blueskyenergy.co/"
   },
   {
-    "title": "Shopping Site",
-    "description": "Borrow almost anything from people nearby for jobs at home, fun experiences or work.",
+    "title": "Luxury Jewelry Site",
+    "description": "Nialaya is a luxury jewelry brand that offers a wide range of high-end bracelets, necklaces, and other accessories. ",
     "technology": "NextJS",
     "image": "../projects/fatLlama.png",
-    "link": "https://fatllama.com/"
+    "link": "https://jidipi.com/"
   },
   {
     "title": "Exit",
@@ -41,18 +41,18 @@
     "link": "https://aidoge.com/en"
   },
   {
-    "title": "Cooperative Site",
-    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
+    "title": "Cryptocurrency Exchange Site",
+    "description": "Blockfinex is a cryptocurrency exchange that allows users to buy, sell, and trade various digital assets, including Bitcoin, Ethereum, and Litecoin. In this project, I developed frontend using Vue and duilt smart contract using Solidity.",
     "technology": "Vue",
     "image": "../projects/cooperative.png",
-    "link": "https://www.cooperativecomputing.com/"
+    "link": "https://www.blockfinex.com/"
   },
   {
-    "title": "Dating App",
-    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
+    "title": "Health App",
+    "description": "There's a strong correlation between dental health, mental health, and our overall well-being. The founders at Otis partnered with Brash to expand their dental e-commerce company by creating a wellness mobile app to directly help people live better lives, reduce the impact of Bruxism, and improve their oral care and self-care routines. In there, I developed frontend and using React Native,  Redux, Asynchronous Storage, and SCSS",
     "technology": "ReactJS",
-    "image": "../projects/dating.png",
-    "link": "https://play.google.com/store/apps/details?id=ru.chocoapp.app "
+    "image": "../projects/Health app.png",
+    "link": "https://play.google.com/store/apps/details?id=com.otis.dental"
   },
   {
     "title": "Wizard Site",
@@ -69,31 +69,10 @@
     "link": "https://www.carousell.com.hk/"
   },
   {
-    "title": "ArtxPro",
-    "description": "This is a free Figma template brought to you by the Flowbase Team! Copy the template to your dashboard and customise it in seconds for your next project! If you like our content, check out more at flowbase.co and follow us on Twitter.",
-    "technology": "ReactJS",
-    "image": "../projects/artxpro.png",
-    "link": "https://artxpro.com/"
-  },
-  {
     "title": "Travel Awal",
     "description": "A travel site",
     "technology": "Vue",
     "image": "../projects/iketo.png",
     "link": "https://www.iketo.diet/"
-  },
-  {
-    "title": "Landing Page",
-    "description": "This is reponsive Landing Page using HTML, CSS, Javascript for Headphone shop",
-    "technology": "HTML",
-    "image": "../projects/html landing.png",
-    "link": "https://nft-wisnu.netlify.app/"
-  },
-  {
-    "title": "Betting Site",
-    "description": "ZED RUN is the first horse racing game of skill to live not only on the blockchain but in an open market. Here I developed Backend using Solidity and integrated Web3.js into Frontend",
-    "technology": "ReactJS",
-    "image": "../projects/zed.png",
-    "link": "https://zed.run/"
-  }
+  }        
 ]

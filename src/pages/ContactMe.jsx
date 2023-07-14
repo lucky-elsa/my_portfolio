@@ -244,7 +244,7 @@ function Contacts() {
               <span>+19788500232</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/wiscaksono/"
+              href="https://www.linkedin.com/in/JamesRoger/"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
@@ -253,7 +253,7 @@ function Contacts() {
               <span>James Roger</span>
             </a>
             <a
-              href="mailto:wiscaksono1@gmail.com"
+              href="mailto:sse.james.roger76@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />

@@ -1,8 +1,8 @@
 # James Roger's Homepage
 
-[https://www.wiscaksono.me/](https://www.wiscaksono.me/)
+[https://www.JamesRoger.me/](https://www.JamesRoger.me/)
 
-![wiscaksono](/thumbnail.png)
+![James Roger](/thumbnail.png)
 
 ## Stack
 
@@ -15,7 +15,7 @@
 ## Project structure
 
 ```
-wiscaksono-site
+JamesRoger-site
 │   # Page files
 ├─ src
 │   │ # React pages
