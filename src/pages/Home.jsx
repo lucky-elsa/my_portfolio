@@ -63,7 +63,7 @@ export default function Home() {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("Senior Software Engineer")
+                    .typeString("Senior Full-Stack Developer")
                     .pauseFor(1000)
                     .deleteAll()
                     .typeString("I love to learn new technology")

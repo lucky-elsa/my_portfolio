@@ -21,10 +21,10 @@
   },
   {
     "title": "Luxury Jewelry Site",
-    "description": "Nialaya is a luxury jewelry brand that offers a wide range of high-end bracelets, necklaces, and other accessories. ",
+    "description": "Nialaya is a luxury jewelry brand that offers a wide range of high-end bracelets, necklaces, and other accessories. In there I developed frontend using React/Next, Facebook Pixel and implemented Payment gateway inclued PayPal, Apple Pay, Venmo, and Amazon Pay.",
     "technology": "NextJS",
-    "image": "../projects/fatLlama.png",
-    "link": "https://jidipi.com/"
+    "image": "../projects/Shopify.png",
+    "link": "https://www.nialaya.com/"
   },
   {
     "title": "Exit",
@@ -62,17 +62,10 @@
     "link": "https://wizardmode.io/"
   },
   {
-    "title": "Shopify Website",
-    "description": "This is the Shopify Website using React. Here, I designed this webstie to be user-friendly, fleixble-layout, and all device responsive design. And implemented payment gateways",
+    "title": "Logistics Management Platform",
+    "description": "A web application for managing orders, payments, routes, drivers, etc. Provides an interactive map where the user can see drivers moving in real-time, drag&drop orders between routes, assign them to a different driver, and build a shortest/fastest route. Has pages for managing drivers, vehicles, fuel prices; formatting different kinds of reports and analytics.",
     "technology": "ReactJS",
-    "image": "../projects/shopify.png",
-    "link": "https://www.carousell.com.hk/"
-  },
-  {
-    "title": "Travel Awal",
-    "description": "A travel site",
-    "technology": "Vue",
-    "image": "../projects/iketo.png",
-    "link": "https://www.iketo.diet/"
+    "image": "../projects/Travel.png",
+    "link": "https://www.fastvan.com/"
   }        
 ]
