@@ -12,6 +12,21 @@ import { CopyBlock, nord } from "react-code-blocks";
 import { Link } from "react-router-dom";
 
 export default function ContactMe() {
+  const d = new Date();
+  const month = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Mei",
+    "June",
+    "July",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
 
   const formRef = useRef();
   const [loader, setLoader] = useState(false);
@@ -30,7 +45,6 @@ export default function ContactMe() {
   const sendEmail = async (e) => {
     e.preventDefault();
     setLoader(true);
-
     await emailjs
       .send(
         "service_4id4y4f",
@@ -46,7 +60,6 @@ export default function ContactMe() {
         formRef.current.reset();
       });
   };
-
   return (
     <motion.div
       className="w-full h-full"
@@ -71,7 +84,6 @@ export default function ContactMe() {
                 <p className="truncate pr-5">contact-me</p>
               </div>
             </div>
-
             <div className="flex items-center justify-items-center overflow-hidden h-full">
               <div className="lg:w-1/2 w-full flex items-center justify-center lg:border-r border-[#1E2D3D] overflow-y-auto scrollbar-thin h-full">
                 <form
@@ -150,7 +162,6 @@ export default function ContactMe() {
                     text={`const sendEmail = async (e) => {
   e.preventDefault();
   setLoader(true);
-
   await emailjs
     .send(
       process.env.REACT_APP_EMAIL_SERVICE,
@@ -179,13 +190,11 @@ export default function ContactMe() {
     </motion.div>
   );
 }
-
 function Contacts() {
   const [isOpen, setIsOpen] = useState(true);
   function openPopover() {
     setIsOpen(!isOpen);
   }
-
   return (
     <Popover>
       <>
@@ -200,7 +209,6 @@ function Contacts() {
           />
           <span>contacts</span>
         </Popover.Button>
-
         <Transition
           show={isOpen}
           enter="transition ease-out duration-200"
@@ -211,7 +219,7 @@ function Contacts() {
           leaveTo="opacity-0 -translate-y-1"
         >
           <Popover.Panel className="p-4 w-full flex flex-col gap-1.5">
-            <Link
+            <a
               href="https://join.skype.com/invite/tWdbCsnaGhDr"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -219,8 +227,8 @@ function Contacts() {
             >
               <AiOutlineSkype className="text-[19px]" />
               <span>James Roger</span>
-            </Link>
-            <Link
+            </a>
+            <a
               href="#"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -228,8 +236,9 @@ function Contacts() {
             >
               <MdCall />
               <span>+19788500232</span>
-            </Link>
-            <Link
+            </a>
+            <a
+
               href="https://www.linkedin.com/in/JamesRoger/"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
@@ -237,22 +246,28 @@ function Contacts() {
             >
               <GrLinkedinOption />
               <span>James Roger</span>
-            </Link>
-            <Link
+            </a>
+            <a
               href="mailto:sse.james.roger76@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
               <span>see.james.roger76@gmail.com</span>
-            </Link>
-          </Popover.Panel>
-        </Transition>
+            </a>
+
+          </Popover.Panel >
+        </Transition >
       </>
     </Popover>
   );
 }
-
 function FindMeAlso() {
+  const [isOpen, setIsOpen] = useState(true);
+
+  function openModal() {
+    setIsOpen(!isOpen);
+  }
+
   return (
     <Popover>
     </Popover>
