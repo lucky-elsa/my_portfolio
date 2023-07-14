@@ -226,7 +226,7 @@ function Contacts() {
         >
           <Popover.Panel className="p-4 w-full flex flex-col gap-1.5">
             <a
-              href="https://wa.me/6287885002327"
+              href="https://join.skype.com/invite/tWdbCsnaGhDr"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
@@ -235,7 +235,7 @@ function Contacts() {
               <span>James Roger</span>
             </a>
             <a
-              href="https://wa.me/6287885002327"
+              href="#"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"

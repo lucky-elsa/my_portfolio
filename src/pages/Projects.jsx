@@ -112,7 +112,7 @@ export default function Projects() {
               <button
                 className={`flex items-center gap-2.5 cursor-pointer transition-colors hover:text-white w-full ${filter === "Blender" ? "text-white" : "text-[#607B96]"
                   }`}
-                onClick={() => setFilter("Blender")}
+                onClick={() => setFilter("WordPress")}
               >
                 <SiWordpress />
                 <span>WordPress</span>
@@ -154,7 +154,7 @@ const Card = ({ data }) => {
     if (value.includes("NextJS")) {
       return <SiNextDotJs />;
     }
-    if (value.includes("Blender")) {
+    if (value.includes("WordPress")) {
       return <SiWordpress />;
     }
     if (value.includes("ReactJS")) {
@@ -251,14 +251,14 @@ const Card = ({ data }) => {
                     </Dialog.Title>
                     <p className="mb-2.5 text-white/80">{data.description}</p>
                     <div className="flex items-center justify-between">
-                      {data.technology.includes("Blender") ? (
+                      {data.technology.includes("WordPress") ? (
                         <a
                           href={data.link}
                           target="_blank"
-                          className="text-white/80"
+                          className="text-white/80 bg-[#575757] px-[12px] py-[8px] rounded-[7px] hover:bg-[#686868] hover:transition-[0.3] hover:scale-[1.07]"
                           rel="noreferrer"
                         >
-                          Download
+                          Demo
                         </a>
                       ) : (
                         <a

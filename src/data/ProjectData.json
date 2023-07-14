@@ -27,9 +27,9 @@
     "link": "https://www.nialaya.com/"
   },
   {
-    "title": "Exit",
-    "description": "Keluar sini ye",
-    "technology": "Blender",
+    "title": "Trevel Site",
+    "description": "Whatever your needs, HLC’s exclusive, tailored, 24/7 lifestyle and travel concierge service can facilitate your vision.",
+    "technology": "WordPress",
     "image": "../projects/living.png",
     "link": "https://highlivingconcierge.com/"
   },
@@ -55,11 +55,11 @@
     "link": "https://play.google.com/store/apps/details?id=com.otis.dental"
   },
   {
-    "title": "Wizard Site",
-    "description": "Praesent ac rhoncus tortor. Proin et interdum libero. Vestibulum ac dui ullamcorper, porta odio sed, ornare quam. Mauris tempor molestie felis non pharetra. Donec nec nisi sit amet libero aliquam varius eu quis erat. Ut varius sagittis urna, non interdum nisl fringilla semper. Morbi tristique sodales eros quis cursus. Pellentesque in euismod lorem. Morbi facilisis nunc eu odio bibendum tempor. Nulla in orci et ante dignissim aliquam non id metus. Integer a vestibulum nunc, at placerat ex. Nam non metus placerat, laoreet ante eu, interdum magna. Nunc lacinia ipsum tortor, at malesuada massa egestas lobortis. Phasellus dictum dui justo, pretium eleifend orci posuere sit amet.",
-    "technology": "Blender",
-    "image": "../projects/wizard.png",
-    "link": "https://wizardmode.io/"
+    "title": "Card Site",
+    "description": "This website is WordPress site using Shopify and Woocommerce. The website offers information about the different industries they serve, the equipment they offer, and their solutions for interchange pricing, PCI compliance, cash advance, and QuickBooks integration.",
+    "technology": "WordPress",
+    "image": "../projects/Card.png",
+    "link": "https://www.mscmerchant.com/"
   },
   {
     "title": "Logistics Management Platform",

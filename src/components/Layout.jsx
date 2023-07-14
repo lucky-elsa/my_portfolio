@@ -2,6 +2,7 @@
 import { AiOutlineGithub } from "@react-icons/all-files/ai/AiOutlineGithub";
 import { AiOutlineClose } from "@react-icons/all-files/ai/AiOutlineClose";
 import { FaTelegram } from "@react-icons/all-files/fa/FaTelegram";
+import { FaDiscord } from "@react-icons/all-files/fa/FaDiscord";
 import { AiOutlineSkype } from "@react-icons/all-files/ai/AiOutlineSkype";
 import { FiMenu } from "@react-icons/all-files/fi/FiMenu";
 import { useState, useEffect } from "react";
@@ -188,11 +189,11 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
           <div className="col-span-2 flex items-center">
             <p className="px-4 py-1.5 truncate">find me in:</p>
             <a
-              href="#"
+              href="https://join.skype.com/invite/tWdbCsnaGhDr"
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-x border-[#1E2D3D] hover:text-white transition-colors"
-              aria-label="Follow me on twitter"
+              aria-label="Follow me on Skype"
             >
               <AiOutlineSkype />
             </a>
@@ -201,9 +202,18 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-r border-[#1E2D3D] hover:text-white transition-colors"
-              aria-label="Follow me on Telegram"
+              aria-label="Follow me on Discord"
             >
               <FaTelegram />
+            </a>
+            <a
+              href="https://discord.gg/James Roger#5190"
+              target="_blank"
+              rel="noreferrer"
+              className="px-2.5 py-2.5 border-r border-[#1E2D3D] hover:text-white transition-colors"
+              aria-label="Follow me on Telegram"
+            >
+              <FaDiscord />
             </a>
           </div>
           <div className="col-span-10 flex items-center justify-end ">
