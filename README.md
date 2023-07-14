@@ -1,9 +1,5 @@
 # James Roger's Homepage
 
-[https://www.JamesRoger.me/](https://www.JamesRoger.me/)
-
-![James Roger](/thumbnail.png)
-
 ## Stack
 
 - [React.js](https://reactjs.org/) - A JavaScript liblary for building user interfaces.
