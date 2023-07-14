@@ -229,17 +229,16 @@ function Contacts() {
               <span>James Roger</span>
             </a>
             <a
-              href="#"
+              href=""
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
             >
               <MdCall />
-              <span>+19788500232</span>
+              <span>+13307526813</span>
             </a>
             <a
-
-              href="https://www.linkedin.com/in/JamesRoger/"
+              href="https://www.linkedin.com/in/james-roger-391758283/"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
@@ -254,7 +253,6 @@ function Contacts() {
               <MdEmail />
               <span>see.james.roger76@gmail.com</span>
             </a>
-
           </Popover.Panel >
         </Transition >
       </>
