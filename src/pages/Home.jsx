@@ -43,7 +43,7 @@ export default function Home() {
           <div className="mb-20">
             <p className="text-white text-xl">Hi everyone. I am</p>
             <h1 className="text-white lg:text-5xl md:text-4xl text-3xl">
-              James Roger
+              Darian Fitzroy
             </h1>
 
             <h2 className=" text-[#E99287] lg:text-3xl md:text-2xl text-xl flex items-center gap-3">

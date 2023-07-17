@@ -49,7 +49,7 @@
   },
   {
     "title": "Health App",
-    "description": "There's a strong correlation between dental health, mental health, and our overall well-being. The founders at Otis partnered with Brash to expand their dental e-commerce company by creating a wellness mobile app to directly help people live better lives, reduce the impact of Bruxism, and improve their oral care and self-care routines. In there, I developed frontend and using React Native,  Redux, Asynchronous Storage, and SCSS",
+    "description": "There's a strong correlation between dental health, mental health, and our overall well-being. The founders at Otis partnered with Brash to expand their dental e-commerce company by creating a wellness mobile app to directly help people live better lives, reduce the impact of Bruxism, and improve their oral care and self-care routines. In there, I developed frontend and using React Native,  Redux, Asynchronous Storage, and SCSS.",
     "technology": "ReactJS",
     "image": "../projects/Health app.png",
     "link": "https://play.google.com/store/apps/details?id=com.otis.dental"
