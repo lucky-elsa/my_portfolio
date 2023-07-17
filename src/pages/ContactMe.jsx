@@ -244,14 +244,14 @@ function Contacts() {
               rel="noreferrer"
             >
               <GrLinkedinOption />
-              <span>James Roger</span>
+              <span>Darian Fitzroy</span>
             </a>
             <a
               href="mailto:sse.james.roger76@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
-              <span>see.james.roger76@gmail.com</span>
+              <span>darianfitzroy@gmail.com</span>
             </a>
           </Popover.Panel >
         </Transition >
