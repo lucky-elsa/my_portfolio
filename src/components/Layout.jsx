@@ -224,7 +224,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               rel="noreferrer"
               aria-label="Follow me on github"
             >
-              <span>James Roger</span>
+              <span>Darian Fitzroy</span>
               <AiOutlineGithub className="text-xl" />
             </a>
           </div>
