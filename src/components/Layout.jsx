@@ -44,7 +44,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
       <div className="custom-size bg-[#011627]/[85%] backdrop-blur-md rounded-lg border border-[#1E2D3D] flex justify-between flex-col overflow-hidden">
         <header className="grid grid-cols-12  text-[#607B96] border-b border-[#1E2D3D] items-center">
           <div className="lg:col-span-2 col-span-11 lg:border-r border-[#1E2D3D] py-4 pl-4">
-            <span>James Roger</span>
+            <span>Darian Fitzroy</span>
           </div>
 
           {/* Navbar  Desktop*/}

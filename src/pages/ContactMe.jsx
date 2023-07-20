@@ -226,7 +226,7 @@ function Contacts() {
               rel="noreferrer"
             >
               <AiOutlineSkype className="text-[19px]" />
-              <span>James Roger</span>
+              <span>Darian Fitzroy</span>
             </a>
             <a
               href=""

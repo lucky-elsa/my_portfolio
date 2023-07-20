@@ -92,7 +92,7 @@ export default function Home() {
 
         <div className="w-1/2 overflow-hidden max-h-[90%] hidden lg:block mr-10">
           <div className="border border-[#0C1616] bg-gradient-to-br from-[#175553] to-[#43D9AD]/10 rounded-lg p-[35px] backdrop-blur-[32px] relative flex gap-6 items-start justify-center">
-            <div className="w-[370px] h-[370px] ml-[30px]" style={{borderRadius: "50%", backgroundImage: `url("James Roger.jpg")`}}>
+            <div className="w-[370px] h-[370px] ml-[30px]" style={{borderRadius: "50%", backgroundImage: `url("Darian.jpg")`}}>
                 
             </div>
 
