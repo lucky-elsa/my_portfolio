@@ -74,6 +74,7 @@ export default function Home() {
             <p className="text-[#607B96]">
               // you can also see it on my Github page
             </p>
+            
             <p>
               <span className="text-[#4D5BCE]">const</span>{" "}
               <span className="text-[#43D9AD]">githubLink</span>{" "}
