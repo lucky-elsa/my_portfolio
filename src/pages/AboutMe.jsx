@@ -88,7 +88,7 @@ function MyBio({ closeBio }) {
 let location = 'Ottawa, Canada'
 
 let hobbies = [
-  "Game"
+  "Games"
   "Programming", 
   "Eating food", 
   "Baseketball",  
@@ -156,6 +156,7 @@ let skills = [
     </motion.div>
   );
 }
+
 
 function Gear({ closeGear }) {
   function Content({ title, list }) {
