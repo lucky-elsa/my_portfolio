@@ -88,7 +88,7 @@ function MyBio({ closeBio }) {
 let location = 'Ottawa, Canada'
 
 let hobbies = [
-  "Games"
+  "Gamess"
   "Programming", 
   "Eating food", 
   "Baseketball",  
