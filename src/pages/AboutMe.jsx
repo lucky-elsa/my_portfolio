@@ -157,6 +157,7 @@ let skills = [
   );
 }
 
+
 function Gear({ closeGear }) {
   function Content({ title, list }) {
     return (
