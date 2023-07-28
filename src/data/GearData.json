@@ -1,11 +1,11 @@
 {
   "gearType": [{
-      "gear": "Senior Full-Stack Developer (Fireart Studio | Warszawa, Poland)",
+      "gear": "Senior Full-Stack Engineer - REMOTE (APPTENSION | Poznań, Poland)",
       "gearList": [{
           "item": "Created a House maintenance application, using React Native for the frontend and Python for the backend, and deployed it on AWS, to streamline the housekeeping process, coordinate service providers, and connect users with a dedicated security team, which has over 15,000 downloads within the first month of launch."
         },
         {
-          "item": "Executed and carried out highly scalable React-based NFT marketplaces on Ethereum and Solana networks, leveraging Netlify, Vercel, and AWS, leading to a 60% increase in daily transactions."
+          "item": "Successfully released Flairs, an AI-powered knowledgebase that uses React on the frontend and Django on the backend to speed up development by 15% by providing interactive insights into product development, product strategy and design, web development, code analysis, and smarter development decisions."
         },
         {
           "item": "Managed a team of 4 developers and designers to create efficient, effective, and visually blockchain websites for 60,000+ users with $300,000 of revenue."
@@ -20,18 +20,18 @@
           "item": "Developed and launched a customized Shopify store, aligned with the main hotel website; resulting in a 45% increase in online sales and a 20% decrease in cart abandonment rate."
         },
         {
-          "item": "Implemented Google Tag Manager and Google Analytics, increasing customer base by 17.6%."
+          "item": "Led 3 junior frontend developers and taking them to the next level."
         },
         {
-          "item": "Overhauled web service test framework, reducing debugging time by 80%.",
+          "item": "Influenced valuable input to leaders 3 times in 4 months about the future development of new features.",
           "type": ["Apr 2021", "Mar 2023"]
         }
       ]
     },
     {
-      "gear": "Full-Stack Developer (Espial Group | Ottawa, Canada)",
+      "gear": "Full-Stack Engineer (BRASH INC | Ottawa, Canada)",
       "gearList": [{
-          "item": "Pioneered the design and deployment of an innovative NFT registration and redemption contract leveraging Solidity; achieved a 28% reduction in transaction time and enabled seamless cross-platform exchanges for users."
+          "item": "Crafted the Otis Dental™ Health App with React Native, Redux, Asynchronous Storage, and SCSS, prioritizing visual appeal, user engagement, and seamless cross-platform functionality to promote oral health and overall well-being; raised app downloads by 20%."
         },
         {
           "item": "Deployed highly efficient back-end APIs utilizing Firebase cloud functions, real-time database, and cloud messaging, resulting in a 30% reduction in server response time."
@@ -55,9 +55,9 @@
       ]
     },
     {
-      "gear": "Intern Web Developer (Rewind | Ottawa, Canada)",
+      "gear": "Intern Web Developer (IVERSOFT | Ottawa, Canada)",
       "gearList": [{
-          "item": "Utilized HTML5, CSS3, SASS, JavaScript, JQuery, AJAX, Node.js, and Bootstrap extensively for intuitive and flexible web portal designs."
+          "item": "Fabricated a BioLingo mobile responsive web app using Javascript on the frontend and Laravel on the backend to create an engaging, game-based learning experience for college students studying biology terminology, generating high student engagement and interest. as a result, expanded user engagement by up to 80%."
         },
         {
           "item": "Produced visually captivating websites using JavaScript libraries including Angular, React, and Vue, integrating advanced React.js components, Forms, Events, Keys, Router, Redux, Animations, and Flux concepts, leading to enhanced user engagement and intensified conversion rates by 20%."

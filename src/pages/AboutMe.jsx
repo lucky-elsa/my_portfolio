@@ -84,7 +84,7 @@ function MyBio({ closeBio }) {
       <div className="overflow-y-auto scrollbar-thin h-full">
         <CopyBlock
           language={`jsx`}
-          text={`const name = 'James Roger'
+          text={`const name = 'Darian Fitzroy'
 let location = 'Ottawa, Canada'
 
 let hobbies = [
@@ -128,25 +128,26 @@ function Work({ closeWork }) {
       <div className="overflow-y-auto scrollbar-thin h-full">
         <CopyBlock
           language={`jsx`}
-          text={`// Work Information
-let profession = 'Blockchain | Web Developer',
+          text={`let Personal Skills = 'Communication, Creativity, Teamwork',
 
-// Most important skills
-let skills = [
-  "Angular",
-  "CSS / CSS 3",
-  "HTML / HTML 5",
-  "Jest / Cypress",
-  "Vue 2, 3 / Nuxt",
-  "Python / Django",
-  "Node / Express / Nest",
-  "JavaScript / TypeScirpt",
-  "PHP / Laravel / WordPress",
-  "Solidity / Rust / Web3.js",
-  "Material UI / Tailwind CSS",
-  "React / React Native / Next",
-  "API Design / API Integration",
-  "MySQL / MongoDB / GraphQL / PostgreSQL"
+let Programming languages = 'HTML5, CSS3, Javascript, PHP, Python, Solidity, Rust, Golang'
+
+let Tech Stacks = [
+  "Vue",
+  "Next", 
+  "React", 
+  "Django", 
+  "Angular", 
+  "Web3.js", 
+  "Laravel",
+  "WordPress",
+  "Typescript",
+  "React Native", 
+  "Figma / Adobe XD",
+  "Node.js / Nest.js", 
+  "AWS / AWS API Gateway", 
+  "Azure / Firebase / Netlify / Vercel"
+  "MySQL / MongoDB / GraphQL / PostgreSQL", 
 ]`}
           showLineNumbers={true}
           theme={nord}
