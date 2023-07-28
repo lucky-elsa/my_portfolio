@@ -2,7 +2,7 @@
   "gearType": [{
       "gear": "Senior Full-Stack Developer (Fireart Studio | Warszawa, Poland)",
       "gearList": [{
-          "item": "Led the successful implementation of NFT minting and staking features across Ethereum, Solana, and Polygon networks, leveraging Solidity and Rust; achieved a 300% increase in token adoption and drove exponential growth in user engagement."
+          "item": "Created a House maintenance application, using React Native for the frontend and Python for the backend, and deployed it on AWS, to streamline the housekeeping process, coordinate service providers, and connect users with a dedicated security team, which has over 15,000 downloads within the first month of launch."
         },
         {
           "item": "Executed and carried out highly scalable React-based NFT marketplaces on Ethereum and Solana networks, leveraging Netlify, Vercel, and AWS, leading to a 60% increase in daily transactions."

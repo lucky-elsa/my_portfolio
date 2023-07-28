@@ -6,31 +6,6 @@ import { useEffect, useState } from "react";
 import Typewriter from "typewriter-effect";
 
 export default function Home() {
-  const ALLOWED_KEYS = ["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"];
-  const [pressed, setPressed] = useState([]);
-
-  useEffect(() => {
-    const handleKeyDown = (event) => {
-      const { key } = event;
-      if (ALLOWED_KEYS.includes(key) && !pressed.includes(key)) {
-        setPressed((prevPressed) => [...prevPressed, key]);
-      }
-    };
-
-    const handleKeyUp = (event) => {
-      const { key } = event;
-      setPressed(pressed.filter((k) => k !== key));
-    };
-
-    document.addEventListener("keydown", handleKeyDown);
-    document.addEventListener("keyup", handleKeyUp);
-
-    return () => {
-      document.removeEventListener("keydown", handleKeyDown);
-      document.removeEventListener("keyup", handleKeyUp);
-    };
-  }, []);
-
   return (
     <motion.div
       className="w-full h-full bg-radial bg-no-repeat bg-right"
@@ -58,7 +33,7 @@ export default function Home() {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("Senior Full-Stack Developer")
+                    .typeString("Senior Full-Stack Engineer")
                     .pauseFor(1000)
                     .deleteAll()
                     .typeString("I love to learn new technology")
