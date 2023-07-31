@@ -146,7 +146,6 @@ export default function Projects() {
   );
 }
 
-
 const Card = ({ data }) => {
   const technology = data.technology.split(/[, ]+/);
   const [isOpen, setIsOpen] = useState(false);
