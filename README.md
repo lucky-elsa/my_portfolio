@@ -1,4 +1,4 @@
-# James Roger's Homepage
+# Darian Fitzroy's Homepage
 <!-- ![James Roger](/thumbnail.png) -->
 
 <img src="/thumbnail.png" alt="James Roger" style="border-radius: 7px">
