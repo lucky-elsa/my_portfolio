@@ -13,7 +13,7 @@
 ## Project structure
 
 ```
-JamesRoger-site
+Darian Fitzroy-site
 │   # Page files
 ├─ src
 │   │ # React pages
