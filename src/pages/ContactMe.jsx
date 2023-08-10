@@ -238,7 +238,7 @@ function Contacts() {
               <span>+1 (330) 752 6813</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/darian-fitzroy-a015a5287"
+              href="https://www.linkedin.com/in/sr-darian-fitzroy"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
