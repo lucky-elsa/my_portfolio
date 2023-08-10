@@ -207,7 +207,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               <FaTelegram />
             </a>
             <a
-              href="https://discord.gg/beautylotus#7171"
+              href="https://discord.gg/beautylotus"
               target="_blank"
               rel="noreferrer"
               className="px-2.5 py-2.5 border-r border-[#1E2D3D] hover:text-white transition-colors"

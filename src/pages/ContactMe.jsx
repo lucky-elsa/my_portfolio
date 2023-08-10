@@ -235,10 +235,10 @@ function Contacts() {
               rel="noreferrer"
             >
               <MdCall />
-              <span>+13307526813</span>
+              <span>+1 (330) 752 6813</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/james-roger-391758283/"
+              href="https://www.linkedin.com/in/darian-fitzroy-a015a5287"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
@@ -247,7 +247,7 @@ function Contacts() {
               <span>Darian Fitzroy</span>
             </a>
             <a
-              href="mailto:sse.james.roger76@gmail.com"
+              href="mailto:darianfitzroy@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
