@@ -1,7 +1,7 @@
 # Darian Fitzroy's Homepage
 <!-- ![James Roger](/thumbnail.png) -->
 
-<img src="/thumbnail.png" alt="James Roger" style="border-radius: 7px">
+<img src="/thumbnail.png" alt="Darian Fitzroy" style="border-radius: 8px">
 ## Stack
 
 - [React.js](https://reactjs.org/) - A JavaScript liblary for building user interfaces.

@@ -91,8 +91,7 @@ let hobbies = [
   "Game"
   "Programming", 
   "Eating food", 
-  "Baseketball",  
-]`}
+  "Baseketball",  ]`}
           showLineNumbers={true}
           theme={nord}
           codeBlock
